@@ -1,0 +1,5 @@
+/*reseteo de estilos*/
+.Picture-profile {
+  display: flex;
+  justify-content: end;
+}
