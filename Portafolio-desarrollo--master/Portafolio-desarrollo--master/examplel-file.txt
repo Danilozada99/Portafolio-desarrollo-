@@ -1,0 +1,36 @@
+
+                                      OBJETIVOS
+                        
+                1. RESGITRO DE ENTRADA Y SALIDA DE LOS ESTUDIANTES 
+                2. PRESTAMOS DE LIBROS FISICOS  
+                3. EL SERVICIO DEL COMPUTADOR
+
+
+                                      OBJETIVO GENERAL 
+
+                  Desarrollar un prototipo de un sistema de información
+ para gestionar el control de ingresos y salidas de los estudiantes, prestamos de libros y servicios en
+                                 la biblioteca de la FESC             
+
+
+                               PALABRAS CLAVES        
+
+
+                       1. Sistema de Información
+                       2. Control de Ingresos y Salidas 
+                       3. Gestión de Estudiantes
+                       4. Préstamo de Libros 
+
+
+
+       3. servicios del computador
+         - revisar que sistema implementa la biblioteca para el sirvicios de los computadores, si no implementan
+           ningun sistema crear uno para  automatizar el servicio de los computadores  
+         - para lograr esta automatizacion deveria tener (falta) 
+
+         / Solicitud del Servicio 
+         / Registro del Usuario
+         / Asignación del Computador  
+         / Acceso al Computador 
+         / Registro de Salida  
+         / Generación de Reportes (opcional): semanal      
